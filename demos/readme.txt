@@ -1,0 +1,1 @@
+The following example projects in this folder are designed to be compiled with the avr-gcc toolchain.
