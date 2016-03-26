@@ -15,13 +15,13 @@ OCR0A= 156-1;//setting period
 OCR0B=12;
 _delay_ms(1000);
 while(1){
-OCR0B=8;//1 me pulse to set servo to go -90 deg 7.8125
+OCR0B=8;//1 me pulse to set servo to go -90 deg 7.8
 _delay_ms(3000);
-OCR0B=12;//1.5 ms pulse to set servo to go to 0 deg 11.7185
+OCR0B=12;//1.5 ms pulse to set servo to go to 0 deg 11.7
 _delay_ms(3000);
-OCR0B=17;//2 ms pulse to set servo to go to 90 deg 16.625
+OCR0B=16;//2 ms pulse to set servo to go to 90 deg 15.6
 _delay_ms(3000);
-OCR0B=12;//1.5 ms pulse to set servo to go to 0 deg 11.7185
+OCR0B=12;//1.5 ms pulse to set servo to go to 0 deg 11.7
 _delay_ms(3000);
 
 
