@@ -1,0 +1,2 @@
+The simple license:
+You are free to use the files in this repository however you wish. I only ask that if you do use part or the entire thing in any sort of product/service/project that you give credit to me for my work and provide a link to this repository in your documentation.
